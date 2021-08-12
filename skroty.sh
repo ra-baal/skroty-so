@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Skrypt do nauki skrótów angielskich na SOper
+# Skrypt do nauki skrótów angielskich i polskich na SOper
 
-plik='skroty.txt' # domyślny
+plik='skroty-so.txt' # domyślny
 
 if [[ $1 == "--help" ]]
 then
@@ -10,7 +10,7 @@ then
 	printf "  %-9s %s\n" "-f [file]" "Wykorzystuje inny plik z pytaniami."
 	printf "  %-9s %s\n" "" "Plik domyślny: $plik."
 	printf "  %-9s %s\n" "" "Kolejne linie pliku powinny mieć postać SKRÓT:ang:pol"
-	printf "  %-9s %s\n" "-p" "Wyświetla wszystkie skróty wraz z ich rozwinięciami."	
+	printf "  %-9s %s\n" "-p" "Wyświetla wszystkie skróty wraz z ich rozwinięciami."
 	printf "  %-9s %s\n" "-s" "Wyłącza domyślne sortowanie skrótów."
 
 	exit
@@ -137,6 +137,3 @@ else # właściwa część - pytania
 	echo
 	echo "Skróty, na które zostały udzielone błędne odpowiedzi zostały zapisane w pliku niepopr_${plik}"
 fi
-
-
-

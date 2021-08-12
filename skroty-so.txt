@@ -1,0 +1,61 @@
+Btrfs:B-tree file system:system plików oparty o B-drzewo
+MMX:MultiMedia Extensions:rozszerzenia multimedialne
+MPP:Massive Parallel Processing:przetwarzanie masywnie równoległe
+TLB:Translation Lookaside Buffer:bufory translacji adresów
+CMOS:Complementary Metal-Oxide Semiconductor:komplementarny półprzewodnik tlenkowy
+SRAM:Static Random Access Memory
+RAM:Random Access Memory:pamięć swobodnego dostępu
+SPOOL:Simultaneous Peripheral Operation On-Line:jednoczesna bezpośrednia praca urządzeń
+JCL:Job Control Language:język kontroli zadań
+SMB:Server Message Block:blok komunikatów serwera
+CIFS:Common Internet File System:wspólny internetowy system plików
+FSB:Front System Bus
+SSD:Solid State Drive:urządzenie z ciała stałego
+IRQ:Interrupt ReQuest:żądanie przerwania
+CFS:Completely Fair Scheduler:planista całkowicie sprawiedliwy
+USB:Universal Serial Bus
+GNU:Gnu is Not Unix:gnu nie jest uniksem
+ROM:Read-Only Memory
+GDT:Global Descriptor Table:globalna tablica deskryptorów
+RISC:Reduced Instruction Set Computer:komputer o zredukowanej liście rozkazów
+PnP:Plug and Play:podłącz i używaj
+HVD:High Voltage Differential:wysokie napięcie różnicowe
+APIC:Advanced Programmable Interrupt Controller:zaawansowany programowalny kontroler przerwań
+HDD:Hard Disk Drive:dysk twardy
+EIDE:Enhanced Integrated Device Electronics:scalona elektronika obsługi dysku
+MTA:Mail Transport Agent:agent transportu poczty
+GPL:General Public License:ogólna licencja publiczna
+MBR:Memory Buffer Register:rejestr buforowy pamięci
+LSI:Large Scale Integration:duży stopień scalenia
+VFS:Virtual File System:wirtualny system plików
+KVM:Kernel-based Virtual Machine:maszyna wirtualna realizowana przez jądro systemu operacyjnego
+DRAM:Dynamic Random Access Memory:dynamiczna pamięć RAM:
+SIMD:Single Instruction Multiple Data:pojedyncza instrukcja wiele danych
+ASCII:American Standard Code for Information Interchange:amerykański standard kodowania na potrzeby wymiany informacji
+LBA:Linear Block Adressing:liniowa adresacja bloków
+NVRAM:Non-Volatile RAM:nieulotna pamięć RAM
+CPU:Central Processing Unit:jednostka centralna
+CISC:Complex Instruction Set Computer:komputer o pełnej liście rozkazów
+FSF:Free Software Foundation:Fundacja Wolnego Oprogramowania
+NMI:NonMaskable Interrupts:przerwania niemaskowalne:??
+SMP:Symmetric MultiProcessing:symetryczne przetwarzanie na wielu procesorach
+CRC:Cyclic Redundancy Check:cykliczna kontrola nadmiarowa
+ENIAC:Electronic Numerical Integrator and Computer:elektroniczne urządzenie numeryczne całkujące i liczące
+IPC:InterProcess Communication:komunikacja międzyprocesowa
+VLSI:Very Large Scale Integration:bardzo duża skala integracji:??
+TSL:Test and Set Lock:sprawdź i załóż blokadę
+SSE:Streaming SIMD Extensions:rozszerzenia strumieniowe SIMD
+LVM:Logical Volume Manager:menadżer woluminów logicznych
+GPU:Graphical Processor Unit:procesor graficzny:
+RHEL:Red Hat Enterprise Linux:
+EISA:Extended Industry Standard Architecture:rozszerzona standardowa architektura przemysłowa
+PCI:Peripheral Component Interconnect:interfejs komponentów peryferyjnych
+MTBF:Mean Time Between Failures:średni czas międzyawaryjny
+DMA:Direct Memory Access:bezpośredni dostęp do pamięci
+ALU:Arithmetic-Logic Unit:jednostka arytmetyczno-logiczna
+NUMA:Non-Uniform Memory Access:niejednakowy dostęp do pamięci
+EPROM:Erasable and Programmable ROM:wymazywalna i programowalna pamięć stała
+GUI:Graphical User Interface:graficzny interfejs użytkownika:
+MSDOS:Microsoft Disk Operating System:dyskowy system operacyjny firmy Microsoft; system operacyjny dla komputerów zgodnych z IBM PC:
+API:Application Programming Interface:interfejs programistyczny aplikacji
+ISR:Interrupt Service Routine:procedura obsługi przerwania
